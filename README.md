@@ -2,7 +2,7 @@
 
 ## SIH 2026 Project
 
-An AI-enabled, low-cost monitoring system designed to continuously monitor ground conditions in underground coal mines, identify abnormal changes, and provide early warnings through a web-based dashboard.
+A proposed AI-enabled, low-cost monitoring system for continuously monitoring ground conditions in underground coal mines, identifying abnormal changes, and supporting early warnings through a web-based dashboard.
 
 ---
 
